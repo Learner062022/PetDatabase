@@ -4,9 +4,7 @@ using System.Text;
 
 namespace DylanDeSouzaPetDatabase
 {
-    public class Pets
+    internal class Pet
     {
-        public string breed;
-        public bool isChipped;
     }
 }
