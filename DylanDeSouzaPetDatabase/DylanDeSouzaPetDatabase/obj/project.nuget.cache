@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pTI8udKG3MI7KYXvPvuKqPoAJttE+02VzI2qCgJqLy6te+CRPV6M4fBI8pSolG5IPC9M1neT3a9/P4SeQjRMBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Souzad\\source\\repos\\DylanDeSouzaPetDatabase\\DylanDeSouzaPetDatabase\\DylanDeSouzaPetDatabase\\DylanDeSouzaPetDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Souzad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Souzad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Souzad\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Souzad\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Souzad\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
