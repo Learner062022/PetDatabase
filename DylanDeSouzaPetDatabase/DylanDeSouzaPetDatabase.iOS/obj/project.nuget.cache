@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "j0HHlq6qdVj6aH0bA4RRGg4xetSRN27PeanJcaOzTdmNJrwhpEfWM974u72FHyOPs7kZ7wfBrfsHrtudzZ4Qcg==",
+  "dgSpecHash": "jj3hyfdiqxi0CSXYZM+7BIwe/3wFRZPwKM+sfFCVc+ck2tBgrGLBS6BA2qvciZiDF8HoHV7P4L9JwlV/YYq0TA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Souzad\\source\\repos\\DylanDeSouzaPetDatabase\\DylanDeSouzaPetDatabase\\DylanDeSouzaPetDatabase.iOS\\DylanDeSouzaPetDatabase.iOS.csproj",
   "expectedPackageFiles": [
@@ -24,8 +24,8 @@
     "C:\\Users\\Souzad\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\Souzad\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
     "C:\\Users\\Souzad\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
-    "C:\\Users\\Souzad\\.nuget\\packages\\xamarin.essentials\\1.8.0\\xamarin.essentials.1.8.0.nupkg.sha512",
-    "C:\\Users\\Souzad\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512",
+    "C:\\Users\\Souzad\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Souzad\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
     "C:\\Users\\Souzad\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
   ],
   "logs": []
