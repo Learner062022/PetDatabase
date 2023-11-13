@@ -4,10 +4,8 @@ using System.Text;
 
 namespace DylanDeSouzaPetDatabase
 {
-    public class Birds
+    public class Birds : Pet
     {
-        public string breed;
-     
         public Birds(string breed)
         {
             this.breed = breed;

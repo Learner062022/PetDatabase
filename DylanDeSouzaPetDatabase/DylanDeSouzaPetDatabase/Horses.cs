@@ -4,10 +4,9 @@ using System.Text;
 
 namespace DylanDeSouzaPetDatabase
 {
-    public class Horses 
+    public class Horses : Pet
     {
         public double hands;
-        public string breed;
 
         public Horses(double hands, string breed)
         {
